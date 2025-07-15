@@ -4,7 +4,7 @@ This project is an application designed to classify images as either "AI-generat
 
 1. **Backend**: Built with FastAPI to serve the trained model and handle image classification requests.
 2. **Frontend**: A user-friendly interface built with Streamlit to upload images and display classification results.
-![Uploading image.png…]()
+<img width="685" height="670" alt="real fake" src="https://github.com/user-attachments/assets/7f216793-f26f-42bc-94ac-63d4d220c29d" />
 
 ---
 
